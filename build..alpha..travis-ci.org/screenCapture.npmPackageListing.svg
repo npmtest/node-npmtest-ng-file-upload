@@ -1,19 +1,19 @@
 <svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="254" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 17:16:37 +0000   544786 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 17:16:37 +0000     1078 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 17:16:37 +0000    39524 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 17:16:37 +0000    71214 bytes  dist/FileAPI.flash.swf</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 17:16:37 +0000   104332 bytes  dist/FileAPI.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 17:16:37 +0000    44032 bytes  dist/FileAPI.min.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 17:16:37 +0000    96078 bytes  dist/ng-file-upload-all.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 17:16:37 +0000    44742 bytes  dist/ng-file-upload-all.min.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 17:16:37 +0000    14394 bytes  dist/ng-file-upload-shim.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 17:16:37 +0000     7262 bytes  dist/ng-file-upload-shim.min.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 17:16:37 +0000    81683 bytes  dist/ng-file-upload.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 17:16:37 +0000    37495 bytes  dist/ng-file-upload.min.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 17:16:37 +0000       70 bytes  index.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 17:16:37 +0000     2882 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 17:17:36 +0000   544786 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 17:17:36 +0000     1078 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 17:17:36 +0000    39524 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 17:17:36 +0000    71214 bytes  dist/FileAPI.flash.swf</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 17:17:36 +0000   104332 bytes  dist/FileAPI.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 17:17:36 +0000    44032 bytes  dist/FileAPI.min.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 17:17:36 +0000    96078 bytes  dist/ng-file-upload-all.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 17:17:36 +0000    44742 bytes  dist/ng-file-upload-all.min.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 17:17:36 +0000    14394 bytes  dist/ng-file-upload-shim.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 17:17:36 +0000     7262 bytes  dist/ng-file-upload-shim.min.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 17:17:36 +0000    81683 bytes  dist/ng-file-upload.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 17:17:36 +0000    37495 bytes  dist/ng-file-upload.min.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 17:17:36 +0000       70 bytes  index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 17:17:36 +0000     2882 bytes  package.json</tspan>
 </text>
 </svg>
