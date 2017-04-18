@@ -1,7 +1,10 @@
-# test coverage for  [ng-file-upload (v12.2.13)](https://github.com/danialfarid/ng-file-upload)  [![npm package](https://img.shields.io/npm/v/npmtest-ng-file-upload.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ng-file-upload) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ng-file-upload.svg)](https://travis-ci.org/npmtest/node-npmtest-ng-file-upload)
+# npmtest-ng-file-upload
+
+#### test coverage for  [ng-file-upload (v12.2.13)](https://github.com/danialfarid/ng-file-upload)  [![npm package](https://img.shields.io/npm/v/npmtest-ng-file-upload.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ng-file-upload) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ng-file-upload.svg)](https://travis-ci.org/npmtest/node-npmtest-ng-file-upload)
+
 #### An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers
 
-[![NPM](https://nodei.co/npm/ng-file-upload.png?downloads=true)](https://www.npmjs.com/package/ng-file-upload)
+[![NPM](https://nodei.co/npm/ng-file-upload.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ng-file-upload)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-ng-file-upload/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-ng-file-upload/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-ng-file-upload/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ng-file-upload/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ng-file-upload/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-ng-file-upload/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-ng-file-upload/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-ng-file-upload/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-ng-file-upload/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-ng-file-upload/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-ng-file-upload%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-ng-file-upload/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-ng-file-upload/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-ng-file-upload/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ng-file-upload/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-ng-file-upload%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ng-file-upload/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-ng-file-upload/build/test-report.html](https://npmtest.github.io/node-npmtest-ng-file-upload/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-ng-file-upload/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-ng-file-upload/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-ng-file-upload/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ng-file-upload/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ng-file-upload/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ng-file-upload/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-ng-file-upload/build/screenCapture.npmPackageListing.svg)
 
@@ -68,13 +77,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "danial.farid",
-            "email": "danial.farid@gmail.com"
+            "name": "danial.farid"
         }
     ],
     "name": "ng-file-upload",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/danialfarid/ng-file-upload.git"
